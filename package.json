@@ -1,0 +1,25 @@
+{
+  "name": "emsb-sab",
+  "version": "1.0.0",
+  "description": "emsb sab directory",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon server.js",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevau5/emsb-sab.git"
+  },
+  "author": "steven anthony zanga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stevau5/emsb-sab/issues"
+  },
+  "homepage": "https://github.com/stevau5/emsb-sab#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1"
+  }
+}
