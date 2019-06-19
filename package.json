@@ -2,7 +2,7 @@
   "name": "emsb-sab",
   "version": "1.0.0",
   "description": "emsb sab directory",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "server": "nodemon server.js",
     "start": "nodemon server.js"
